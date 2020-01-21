@@ -1,0 +1,13 @@
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.deps.json
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.AssemblyInfo.cs
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.DataAccess.pdb
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.dll
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Utility.pdb
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.csproj.CopyComplete
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.dll
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\obj\Debug\netcoreapp3.0\Taste.DataAccess.pdb
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.dll
+C:\Users\Michal\source\repos\Taste\Taste.DataAccess\bin\Debug\netcoreapp3.0\Taste.Models.pdb
